@@ -1,0 +1,22 @@
+{
+  "name": "shri-2023-multimedia-homework",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "prettier": "^2.8.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Super-Cereal/shri-2023-multimedia-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Super-Cereal/shri-2023-multimedia-homework/issues"
+  },
+  "homepage": "https://github.com/Super-Cereal/shri-2023-multimedia-homework#readme"
+}
